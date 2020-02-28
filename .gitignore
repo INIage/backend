@@ -1,0 +1,8 @@
+# VSCode
+.vscode/
+
+# Node.js
+node_modules/
+
+# backend
+dist/
